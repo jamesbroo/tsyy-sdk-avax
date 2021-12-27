@@ -1,2 +1,13 @@
-dist
 node_modules
+src
+test
+.babelrc
+.yarnrc
+LICENSE
+package.json
+README.md
+tsconfig.json
+yarn.lock
+
+
+
